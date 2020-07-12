@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>record</title>
+    <g id="record" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M250,125 C319.035594,125 375,180.964406 375,250 C375,319.035594 319.035594,375 250,375 C180.964406,375 125,319.035594 125,250 C125,180.964406 180.964406,125 250,125 Z M250,155 C197.532949,155 155,197.532949 155,250 C155,302.467051 197.532949,345 250,345 C302.467051,345 345,302.467051 345,250 C345,197.532949 302.467051,155 250,155 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>stop</title>
+    <g id="stop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M345,125 C361.568542,125 375,138.431458 375,155 L375,345 C375,361.568542 361.568542,375 345,375 L155,375 C138.431458,375 125,361.568542 125,345 L125,155 C125,138.431458 138.431458,125 155,125 L345,125 Z M335,155 L165,155 C159.477153,155 155,159.477153 155,165 L155,335 C155,340.522847 159.477153,345 165,345 L335,345 C340.522847,345 345,340.522847 345,335 L345,165 C345,159.477153 340.522847,155 335,155 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
+</svg>
