@@ -1,3 +1,0 @@
-<% @glyphs.each do |name, value| %>
-  'nu-<%= name.to_s %>'
-<% end %>
