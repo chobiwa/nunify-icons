@@ -54,12 +54,14 @@ no_hash: true
 input:
   vectors: svg
   templates: templates
-templates: [_icons.sass, _icon_font.sass, preview]
+templates: [_icons.sass, _icon_font.sass, css, preview]
 css_selector: '.nu.nu-{{glyph}}'
 output:
   fonts: dist
   _icons.scss: dist
   _icon-font.scss: dist
+  preview: preview
+  css: dist
 
 #output:
 #  fonts: app/assets/fonts
