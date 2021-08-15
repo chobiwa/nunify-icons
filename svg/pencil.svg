@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pencil</title>
+    <g id="pencil" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M258.022,523 L240,563.356436 L221.978,523 L258.022,523 Z M300,39 L300,429 L271.419,493 L208.581,493 L180,429 L180,39 L300,39 Z M269.999,69 L209.999,69 L209.999,399 L269.999,399 L269.999,69 Z M280,-43 C291.045695,-43 300,-34.045695 300,-23 L300,9.57425743 L180,9.57425743 L180,-23 C180,-34.045695 188.954305,-43 200,-43 L280,-43 Z" id="Shape" fill="#000000" fill-rule="nonzero" transform="translate(240.000000, 260.178218) rotate(-315.000000) translate(-240.000000, -260.178218) "></path>
+    </g>
+</svg>
