@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="501px" height="500px" viewBox="0 0 501 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>paste-format</title>
+    <g id="paste-format" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.000000, 0.000000)">
+        <path d="M235,295 L235,465 C235,481.568542 221.568542,495 205,495 C188.431458,495 175,481.568542 175,465 L175,295 L235,295 Z M490,65 L490,235 L220,235 L220,285 L190,285 L190,205 L460,205 L460,95 L425,95 L425,65 L490,65 Z M375,5 C391.568542,5 405,18.4314575 405,35 L405,125 C405,141.568542 391.568542,155 375,155 L35,155 C18.4314575,155 5,141.568542 5,125 L5,35 C5,18.4314575 18.4314575,5 35,5 L375,5 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>
